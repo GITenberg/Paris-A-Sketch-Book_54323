@@ -1,0 +1,23 @@
+_repo: Paris-A-Sketch-Book_54323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Béjot, Eugène
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '47821'
+    url: http://www.gutenberg.org/2009/agents/47821
+    wikipedia: https://en.wikipedia.org/wiki/Eug%C3%A8ne_B%C3%A9jot
+description: ''
+gutenberg_issued: '2017-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Paris; A Sketch-Book
+url: http://www.gutenberg.org/ebooks/54323
